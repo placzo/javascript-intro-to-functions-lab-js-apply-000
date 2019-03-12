@@ -12,6 +12,10 @@ function sayHiToGrandma(grama) {
   return ("I can't hear you!")
 }
 
+var grama2 = "HELLO"
+function sayHiToGrandma(grama2) {
+  return ("YES INDEED!")
+
 function logShout(string) {
   console.log(string.toUpperCase())
 }
