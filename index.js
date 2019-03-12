@@ -9,11 +9,15 @@ function whisper(string) {
 
 
 var grama2 = "HELLO"
+grama2.toUpperCase() === uppercase
+
 function sayHiToGrandma(grama2) {
   return ("YES INDEED!")
 }
 
 var grama = "hello"
+grama.toLowerCase() === lowercase
+
 function sayHiToGrandma(grama) {
   return ("I can't hear you!")
 }
