@@ -8,7 +8,7 @@ function whisper(string) {
 
 var grama = "hello"
 
-function sayHitoGrandma(grama)toLowerCase {
+function sayHitoGrandma(grama) {
   return ("I can't hear you!")
 }
 
