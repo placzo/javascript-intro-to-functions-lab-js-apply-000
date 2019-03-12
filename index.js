@@ -6,7 +6,7 @@ function whisper(string) {
   return string.toLowerCase()
 }
 
-function sayHitoGrandma(string) {
+function sayHitoGrandma(string)toLowerCase {
   return ("I can't hear you!")
 }
 
