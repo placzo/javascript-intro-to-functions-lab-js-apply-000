@@ -8,19 +8,14 @@ function whisper(string) {
 }
 
 
-var grama2 = "HELLO"
-grama2.toUpperCase() === uppercase
-function sayHiToGrandma(grama2) {
+function sayHiToGrandma('HELLO') {
   return ("YES INDEED!")
 }
 
-var grama = "hello"
-grama.toLowerCase() === lowercase
-function sayHiToGrandma(grama) {
+function sayHiToGrandma("hello") {
   return ("I can't hear you!")
 }
 
-var string = "I love you, Grandma."
 function sayHiToGrandma(string) {
   return ("I love you, too")
 }
