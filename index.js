@@ -7,12 +7,7 @@ function whisper(string) {
   return string.toLowerCase()
 }
 
-var caps = "HELLO"
-function sayHiToGrandma(caps) {
-  return ("YES INDEED!")
-}
 
-var low = "hello"
 function sayHiToGrandma(low) {
   return ("I can't hear you!")
 }
