@@ -8,15 +8,14 @@ function whisper(string) {
 }
 
 
-var grama = "hello"
-function sayHiToGrandma(grama) {
-  return ("I can't hear you!")
-}
-
-
 var grama2 = "HELLO"
 function sayHiToGrandma(grama2) {
   return ("YES INDEED!")
+}
+
+var grama = "hello"
+function sayHiToGrandma(grama) {
+  return ("I can't hear you!")
 }
 
 
